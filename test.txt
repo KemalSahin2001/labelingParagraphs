@@ -1,0 +1,180 @@
+
+Input Sentence Samsung releases its latest smartwatch with advanced health features.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'politics', 'sports']
+Scores [0.5767714977264404, 0.26276150345802307, 0.1604670286178589]
+
+
+Model cross-encoder
+Labels ['technology', 'sports', 'politics']
+Scores [0.987577497959137, 0.010976800695061684, 0.0014457311481237411]
+
+
+Model MoritzLaurer
+Labels ['technology', 'sports', 'politics']
+Scores [0.9680925011634827, 0.01625126414000988, 0.015656189993023872]
+
+
+Input Sentence Lionel Messi scores a hat-trick in last night's match.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'politics', 'sports']
+Scores [0.7208114266395569, 0.18713846802711487, 0.09205008298158646]
+
+
+Model cross-encoder
+Labels ['sports', 'technology', 'politics']
+Scores [0.995028555393219, 0.004083373583853245, 0.0008880396489985287]
+
+
+Model MoritzLaurer
+Labels ['sports', 'technology', 'politics']
+Scores [0.696057140827179, 0.20368006825447083, 0.1002628430724144]
+
+
+Input Sentence The president's recent speech highlighted the need for economic reforms.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'politics', 'sports']
+Scores [0.7925894260406494, 0.14550021290779114, 0.06191031262278557]
+
+
+Model cross-encoder
+Labels ['politics', 'sports', 'technology']
+Scores [0.8142409324645996, 0.11623340845108032, 0.06952567398548126]
+
+
+Model MoritzLaurer
+Labels ['politics', 'sports', 'technology']
+Scores [0.63767009973526, 0.18547077476978302, 0.17685911059379578]
+
+
+Input Sentence Rising sea levels threaten coastal cities around the world.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'environment', 'politics', 'sports']
+Scores [0.741210401058197, 0.1383570432662964, 0.07863407582044601, 0.041798509657382965]
+
+
+Model cross-encoder
+Labels ['environment', 'sports', 'technology', 'politics']
+Scores [0.9937881827354431, 0.0032085648272186518, 0.001987902447581291, 0.0010153667535632849]
+
+
+Model MoritzLaurer
+Labels ['environment', 'politics', 'technology', 'sports']
+Scores [0.712746262550354, 0.12820975482463837, 0.10882558673620224, 0.050218358635902405]
+
+
+Input Sentence The latest Marvel movie broke box office records during its opening weekend.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'entertainment', 'politics', 'sports']
+Scores [0.6306885480880737, 0.1763036549091339, 0.13728424906730652, 0.05572357028722763]
+
+
+Model cross-encoder
+Labels ['entertainment', 'technology', 'sports', 'politics']
+Scores [0.9958984851837158, 0.0021859726402908564, 0.0013243225403130054, 0.0005912117194384336]
+
+
+Model MoritzLaurer
+Labels ['entertainment', 'politics', 'technology', 'sports']
+Scores [0.8656314611434937, 0.05514272674918175, 0.05098794400691986, 0.028237853199243546]
+
+
+Input Sentence Stock markets surged today after positive reports from tech giants.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'politics', 'finance']
+Scores [0.4974929094314575, 0.25349509716033936, 0.24901194870471954]
+
+
+Model cross-encoder
+Labels ['finance', 'technology', 'politics']
+Scores [0.8126893639564514, 0.1867421716451645, 0.0005684256320819259]
+
+
+Model MoritzLaurer
+Labels ['technology', 'finance', 'politics']
+Scores [0.9630060195922852, 0.026266032829880714, 0.010727997869253159]
+
+
+Input Sentence The World Health Organization issues a new guideline on mask usage.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'health', 'politics']
+Scores [0.7030266523361206, 0.17203626036643982, 0.1249370276927948]
+
+
+Model cross-encoder
+Labels ['health', 'technology', 'politics']
+Scores [0.9938666224479675, 0.005087715573608875, 0.0010457062162458897]
+
+
+Model MoritzLaurer
+Labels ['health', 'technology', 'politics']
+Scores [0.8607209920883179, 0.07125309109687805, 0.06802590191364288]
+
+
+Input Sentence J.K. Rowling is set to release a new novel next month.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'literature', 'politics', 'sports']
+Scores [0.7710539698600769, 0.1011408194899559, 0.08617953956127167, 0.04162558913230896]
+
+
+Model cross-encoder
+Labels ['literature', 'technology', 'sports', 'politics']
+Scores [0.9821518063545227, 0.010938052088022232, 0.006722302176058292, 0.00018789805471897125]
+
+
+Model MoritzLaurer
+Labels ['literature', 'politics', 'technology', 'sports']
+Scores [0.9709262251853943, 0.013480777852237225, 0.008564776740968227, 0.007028230931609869]
+
+
+Input Sentence Researchers have found a new potential treatment for Alzheimer's.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'science', 'health', 'politics']
+Scores [0.43132662773132324, 0.41544994711875916, 0.10520363599061966, 0.04801986366510391]
+
+
+Model cross-encoder
+Labels ['science', 'health', 'technology', 'politics']
+Scores [0.8818657398223877, 0.10936158895492554, 0.007832719944417477, 0.0009399988921359181]
+
+
+Model MoritzLaurer
+Labels ['science', 'health', 'technology', 'politics']
+Scores [0.6593475341796875, 0.2938774526119232, 0.029472393915057182, 0.01730257086455822]
+
+
+Input Sentence The tourism sector is gradually recovering after the pandemic slump.
+============================================================
+
+Model joeddavdistilbert
+Labels ['technology', 'health', 'travel', 'politics']
+Scores [0.49347105622291565, 0.17816412448883057, 0.16781872510910034, 0.16054615378379822]
+
+
+Model cross-encoder
+Labels ['travel', 'health', 'technology', 'politics']
+Scores [0.9941889047622681, 0.004264389630407095, 0.0009259855141863227, 0.0006207984406501055]
+
+
+Model MoritzLaurer
+Labels ['travel', 'health', 'technology', 'politics']
+Scores [0.9506978988647461, 0.026574382558465004, 0.011926773004233837, 0.01080097071826458]
+
